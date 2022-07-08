@@ -1,0 +1,392 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@600;700&family=Josefin+Sans:wght@100&family=Ramaraja&family=Roboto:ital,wght@0,100;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Josefin+Sans:wght@100&family=Ramaraja&family=Roboto:ital,wght@0,100;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Josefin+Sans:wght@100&family=Roboto:ital,wght@0,100;1,900&display=swap');
+.d1
+{
+    width: 100%;
+    height: 250px;
+    background-color: bisque;
+}
+.d2
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: bisque; */
+}
+.types
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image: url(./images/does-a-cappuccino-have-caffeine.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.types1
+{
+    width: 40%;
+    height: 400px;
+    text-align: center;
+    margin-top: 150px; 
+}
+
+.d3
+{
+    width: 100%;
+    height: 270px;
+    background-color: bisque;
+}
+h1
+{
+    text-align: center;
+    color:burlywood;
+}
+h2
+{
+    color:#271fcc;
+    text-align: center;
+}
+h4
+{
+    font-size: 25px;
+    text-align:center;
+    color: burlywood;
+    margin-left: 250px;
+    font-family: 'Dancing Script', cursive;
+} 
+h5
+{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 500px;
+    color: burlywood;
+}
+
+p
+{
+    color:black;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Ramaraja', serif;
+}
+.g1
+{
+    width: 100%;
+    height: 850px;
+    display: flex;
+    justify-content:space-evenly;
+    background-image: url(./images/Coffee-National-Coffee-Day-FT-Blog0919.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.col
+{
+    width: 20%;
+    height: 750px;
+    border: 2px azure solid;
+    margin-top:50px;
+
+}
+body
+{
+    background-color: azure;
+}
+img
+{
+    height: 200px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+button
+{
+    height: 40px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.a1
+{
+    color: blueviolet;
+     margin-top: 700px;
+     text-align: center;
+}
+#hh
+{
+    font-size: 50px;
+}
+
+#hh:hover
+{
+    
+    color:azure;
+}
+#hh2:hover
+{
+    
+    color:azure;
+}
+#ss
+{
+    font-size: 35px;
+    margin-top: 40px;
+}
+#hh3
+{
+    color: bisque;
+    font-size: 40px;
+    font-family:'Anton', sans-serif;
+}
+.d5
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d51
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image:url(./images/arabica-coffee-beans-500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d52
+{
+    width: 40%;
+    height: 400px;
+   text-align: center;
+ margin-top: 150px; 
+}
+.d6
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d61
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image:url(./images/intro-1614623735.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d62
+{
+    width: 40%;
+    height: 400px;
+   text-align: center;
+ margin-top: 150px; 
+}
+.d7
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d71
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image:url(./images/BlackCoffee4-500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d72
+{
+    width: 40%;
+    height: 400px;
+   text-align: center;
+ margin-top: 150px; 
+}
+.d8
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d81
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image:url(./images/how-to-make-a-latte-at-home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.d82
+{
+    width: 40%;
+    height: 400px;
+   text-align: center;
+ margin-top: 150px; 
+}
+.d9
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d91
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image:url(./images/vanilla-latte-amazing.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.d92
+{
+    width: 40%;
+    height: 400px;
+    text-align: center;
+    margin-top: 150px;
+}
+.d10
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d101
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image:url(./images/Americano-ChristinaDibernardo-Unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.d102
+{
+    width: 40%;
+    height: 400px;
+    text-align: center;
+    margin-top: 150px;
+}
+.d11
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d111
+{
+    width: 40%;
+    height: 400px;
+    border: 2px #9c686d solid;
+    margin-top:50px;
+    background-image:url(./images/product-image-2.webp);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.d112
+{
+    width: 40%;
+    height: 400px;
+    text-align: center;
+    margin-top: 150px;
+}
+body
+{
+     background-color:burlywood;
+}
+
+#ae:hover
+{
+    color:red;
+}
+.f1
+{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.f11
+{
+    width: 40%;
+    height: 500px;
+    border: 2px burlywood solid;
+    margin-top:50px;
+}
+.f12
+{
+    width: 40%;
+    height: 500px;
+    text-align: center;
+    border: 2px burlywood solid;
+    margin-top: 50px;
+    background-image: url(./images/imagecup.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#pp:hover
+{
+    color:aliceblue;
+    
+}
+.f2
+{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.f21
+{
+    width: 40%;
+    height: 500px;
+    border: 2px burlywood solid;
+    /* margin-top:50px; */
+    background-image: url(./images/coffee-cup.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f22
+{
+    width: 40%;
+    height: 500px;
+    text-align: center;
+    border: 2px burlywood solid;
+    /* margin-top: 50px; */
+}
+#im1
+{
+    width: 60%;
+    height: 250px;
+}
+
+button
+{
+    align-items: center;
+    margin-top: auto;
+}
+.a1
+{
+margin-left: 1200px;
+}
